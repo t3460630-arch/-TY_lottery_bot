@@ -4,7 +4,7 @@ import random
 
 participants = set()
 
-BOT_TOKEN = 8838413078:AAFWISiW-sboLmjndrCBqA8yj2uhsbt-9GU
+BOT_TOKEN = "8838413078:AAFWISiW-sboLmjndrCBqA8yj2uhsbt-9GU"
 
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     await update.message.reply_text("سلام 💜 ربات قرعه‌کشی روشنه")
